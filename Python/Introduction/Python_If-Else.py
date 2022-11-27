@@ -21,7 +21,7 @@
 import sys
 
 
-N = int(raw_input().strip())
+N = int(input())
 
 if N % 2 != 0:
     print "Weird"
